@@ -1,7 +1,7 @@
 About pysmbclient
 =================
 
-Home: http://bitbucket.org/nosklo/pysmbclient
+Home: https://bitbucket.org/nosklo/pysmbclient
 
 Package license: GPL 3.0
 
@@ -14,9 +14,9 @@ Summary: A convenient smbclient wrapper
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/tmpoqqa2zdu-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/tmpoqqa2zdu-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/tmpoqqa2zdu-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/tmpoqqa2zdu-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/tmpoqqa2zdu-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/tmpoqqa2zdu-feedstock/branch/master)
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pysmbclient-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pysmbclient-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/pysmbclient-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pysmbclient-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pysmbclient-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pysmbclient-feedstock/branch/master)
 
 Current release info
 ====================
